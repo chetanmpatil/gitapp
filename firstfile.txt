@@ -3,4 +3,6 @@ second line
 third line
 END
 XXX-Chetan Patil
-time:-now
+
+time:-now Date:-today
+
